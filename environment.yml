@@ -1,9 +1,6 @@
 name: mdsimulation-streamlit
-channels:
-  - conda-forge
-  - default
 dependencies:
-  - mdtraj=1.9.9
-  - openmm=8.1.0
-  - parmed=4.2.2
+  - conda-forge::mdtraj=1.9.9
+  - conda-forge::openmm=8.1.0
+  - conda-forge::parmed=4.2.2
  
