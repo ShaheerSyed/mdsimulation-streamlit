@@ -1,7 +1,4 @@
 name: mdsimulation-streamlit
-channels:
-  - conda-forge
-  - default
 dependencies:
   - python>=3.5
   - anaconda
