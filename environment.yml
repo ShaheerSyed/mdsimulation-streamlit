@@ -1,4 +1,7 @@
 name: mdsimulation-streamlit
+channels:
+  - conda-forge
+  - default
 dependencies:
   - python>=3.5
   - anaconda
@@ -6,6 +9,4 @@ dependencies:
   - openmm=8.1.0
   - parmed=4.2.2
   - pip
-  - pip:
-    - -r requirements.txt
-
+ 
