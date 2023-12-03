@@ -1,4 +1,4 @@
-git+https://github.com/mdtraj/mdtraj
+git+https://github.com/mdtraj/mdtraj@master
 openmm==0.2
 parmed
 matplotlib==3.8.2
