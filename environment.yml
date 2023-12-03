@@ -1,4 +1,4 @@
-name: pchem
+name: mdsimulation-streamlit
 channels:
   - conda-forge
   - defaults
@@ -284,4 +284,4 @@ dependencies:
     - validators==0.22.0
     - werkzeug==3.0.1
     - yarg==0.1.9
-prefix: C:\Users\shahe\anaconda3\envs\pchem
+
