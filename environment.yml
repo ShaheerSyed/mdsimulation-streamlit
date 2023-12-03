@@ -1,5 +1,5 @@
 name: mdsimulation-streamlit
-channels:
+channles:
   - conda-forge
   - default
 dependencies:
