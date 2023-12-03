@@ -1,4 +1,4 @@
-git+https://github.com/mdtraj/mdtraj@master
+MDAnalysis==2.6.1
 openmm==0.2
 parmed
 matplotlib==3.8.2
