@@ -1,5 +1,5 @@
 MDAnalysis==2.6.1
-openmm==0.2
+git+https://github.com/openmm/openmm
 parmed
 matplotlib==3.8.2
 numpy==1.26.2
