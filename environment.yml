@@ -1,7 +1,6 @@
 name: mdsimulation-streamlit
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - mdtraj=1.9.9=py39hc83516f_1
   - openmm=8.1.0=py39hc2cb4d9_1
